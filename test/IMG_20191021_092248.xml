@@ -1,0 +1,26 @@
+<annotation>
+  <folder>colab</folder>
+  <filename>IMG_20191021_092248</filename>
+  <path>C:\Users\Sammy\Desktop\colab\IMG_20191021_092248.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>480</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>stop</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>164</xmin>
+      <ymin>217</ymin>
+      <xmax>282</xmax>
+      <ymax>335</ymax>
+    </bndbox>
+  </object>
+</annotation>
