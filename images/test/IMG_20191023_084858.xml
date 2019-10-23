@@ -1,0 +1,38 @@
+<annotation>
+  <folder>attachments (2)</folder>
+  <filename>IMG_20191023_084858</filename>
+  <path>C:\Users\Sammy\Downloads\attachments (2)\IMG_20191023_084858.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>155</xmin>
+      <ymin>177</ymin>
+      <xmax>241</xmax>
+      <ymax>466</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>amber</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>443</xmin>
+      <ymin>161</ymin>
+      <xmax>497</xmax>
+      <ymax>363</ymax>
+    </bndbox>
+  </object>
+</annotation>
