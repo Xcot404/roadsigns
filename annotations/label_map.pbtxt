@@ -1,0 +1,53 @@
+item {
+    id: 1
+    name: 'giveway'
+}
+
+item {
+    id: 2
+    name: 'stop'
+}
+item {
+    id: 3
+    name: 'right'
+}
+
+item {
+    id: 4
+    name: 'red'
+}
+
+item {
+    id: 5
+    name: 'amber'
+}
+
+item {
+    id: 6
+    name: 'green'
+}
+
+item {
+    id: 7
+    name: 'sp80'
+}
+
+item {
+    id: 8
+    name: 'sp40'
+}
+
+item {
+    id: 9
+    name: 'sp30'
+}
+
+item {
+    id: 10
+    name: 'sp50'
+}
+
+item {
+    id: 11
+    name: 'sp60'
+}
